@@ -32,7 +32,7 @@ A sleek, minimalist resume website built with **HTML** and **CSS**, designed to 
 ## 🛠️ Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/resume-website.git
+   git clone https://github.com/naveencreation/Resume.git
    ```
 2. **Customize Your Information**:
    - Open `index.html` and replace placeholder text with your own details.
