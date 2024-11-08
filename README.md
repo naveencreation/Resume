@@ -52,14 +52,4 @@ A sleek, minimalist resume website built with **HTML** and **CSS**, designed to 
 
 ---
 
-## 📜 License
-This project is open-source under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the license terms.
-
----
-
-## 👏 Contributing
-Contributions are welcome! If you have ideas to improve this project, please fork the repository, create a new branch, and submit a pull request.
-
----
-
-Crafted with 💻 and ☕ by [Your Name](https://www.linkedin.com/in/your-profile)
+Crafted with 💻 and ☕ by [Naveen S](https://www.linkedin.com/in/naveen-s-selvan-3b198b269)
