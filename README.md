@@ -52,4 +52,4 @@ A sleek, minimalist resume website built with **HTML** and **CSS**, designed to 
 
 ---
 
-Crafted with 💻 and ☕ by [Naveen S](https://www.linkedin.com/in/naveen-s-selvan-3b198b269)
+Crafted with 💻 and ☕ by [Naveen S](https://www.linkedin.com/in/naveen-s0004)
