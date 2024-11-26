@@ -35,7 +35,7 @@ A sleek, minimalist resume website built with **HTML** and **CSS**, designed to 
    git clone https://github.com/naveencreation/Resume.git
    ```
 2. **Customize Your Information**:
-   - Open `index.html` and replace placeholder text with your own details.
+   - Open `index.html` and replace place holder text with your own details.
    - Adjust styles in `style.css` to personalize the look and feel.
 3. **Preview Your Resume**:
    - Open `index.html` in your browser to view the changes.
@@ -49,6 +49,7 @@ A sleek, minimalist resume website built with **HTML** and **CSS**, designed to 
 2. Click on **Settings** > **Pages**.
 3. Choose the `main` branch and `/root` directory.
 4. Save, and your resume website will be live at `https://your-username.github.io/resume-website`.
+   
 
 ---
 
