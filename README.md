@@ -46,7 +46,7 @@ A sleek, minimalist resume website built with **HTML** and **CSS**, designed to 
 
 ## 🌍 Deployment on GitHub Pages
 1. Go to your GitHub repository.
-2. Click on **Settings** > **Pages**.
+2. Click on **Settings** > **Pages**..
 3. Choose the `main` branch and `/root` directory.
 4. Save, and your resume website will be live at `https://your-username.github.io/resume-website`.
    
